@@ -43,8 +43,8 @@ flask_aluno_project/
 Clone o repositório para a sua máquina local usando o seguinte comando no terminal:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/opirilampo/Alpha_Project_Flask-main.git
+cd Alpha_Project_Flask-main
 ```
 
 ### Passo 2: Criar um Ambiente Virtual
